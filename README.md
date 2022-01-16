@@ -1,6 +1,8 @@
-<!--
-### Hi there 👋
--->
+### Hi there 👋 I'm JaviS-Rei.
+* System Programming
+* Machine Learning, Deep Learning, Computer Vision
+* C / X86(_64)-asm / Python / *C++(TODO) / Rust(TODO)*
+
 
 <!--
 **JaviS-Rei/JaviS-Rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
